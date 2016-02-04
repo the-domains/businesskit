@@ -1,7 +1,7 @@
 name: businesskit
 favicon: null
-layout_spectrum: 0.8337530852295458
-typography_spectrum: 0.18077606451697648
+layout_spectrum: 0.50122
+typography_spectrum: 0.09139
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4586487552151084
+  brandStrength: 1
   lightness: 0.9377662381157279
   saturation: 0.8053865316323936
   rhythmicContrast: 0.8632257110439241
