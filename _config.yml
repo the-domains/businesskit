@@ -2,6 +2,7 @@ name: businesskit
 favicon: null
 layout_spectrum: 0.50122
 typography_spectrum: 0.09139
+title: Business Kit
 cta:
   domain: null
   bucket: null
