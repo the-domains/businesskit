@@ -1,7 +1,7 @@
-name: businesskit
+name: Business Kit
 favicon: null
 layout_spectrum: 0.50122
-typography_spectrum: 0.09139
+typography_spectrum: 1
 title: Business Kit
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 1
+    - '#ffffff'
+    - '#b1aea7'
+    - '#7e7c7f'
+    - '#120a07'
+    - '#51473e'
+  brandStrength: 0.5
   lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
